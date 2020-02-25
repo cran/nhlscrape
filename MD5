@@ -1,9 +1,9 @@
-bc1e30cb42912a618d2fa75ad31188cb *DESCRIPTION
+ea53eeced05640bfa83fb9e216c4eb2d *DESCRIPTION
 eaa3b6dbafbb69fa3a812df6d56a7450 *LICENSE
 b595cf18d7243ed0b797677be045d5d4 *NAMESPACE
-9c5dc7aa4357c09dcd42d08a38cb6d05 *NEWS.md
-25672aaf057285e7dfb494ba984cfb51 *R/db_manipulation.R
-30fd1042fedc934a2cbff6c8e2039d37 *R/db_retrieval.R
+07f6763deaae7354a359860a80da747a *NEWS.md
+eb5a8de34de45cc7f06da3b111e88596 *R/db_manipulation.R
+21d558ae8bc7b72c17be6a683d370a20 *R/db_retrieval.R
 67bdbfb0915cd50d720ffb0d47660a00 *R/nhl_scraping.R
 204e7ba3847fb53816d8908718de57f4 *R/zzz.r
 0a77e466316353a0474aefaa1e6f24f7 *README.md
